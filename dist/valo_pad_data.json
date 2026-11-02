@@ -1,11 +1,11 @@
 {
     "settings": {
-        "font": "Bahnschrift",
-        "theme": "Black",
+        "font": "",
+        "theme": "",
         "bg_image": "",
         "effect": "Glow",
-        "header_image": "T:/MY VALO APP/BACKGROUND/ezgif.com-combine (1).gif",
-        "title_bg": "T:/MY VALO APP/BACKGROUND/ezgif.com-combine (1).gif"
+        "header_image": "",
+        "title_bg": ""
     },
     "sections": [
         {
