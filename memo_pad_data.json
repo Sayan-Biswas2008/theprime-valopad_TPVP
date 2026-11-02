@@ -1,0 +1,39 @@
+[
+    {
+        "id": "sec_1",
+        "title": "General",
+        "color": "#00d2d3",
+        "notes": [],
+        "crosshairs": [
+            {
+                "id": "c1",
+                "label": "TENZ",
+                "text": "0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0"
+            },
+            {
+                "id": "c2",
+                "label": "DOT",
+                "text": "0;P;c;7;o;1;d;1;z;3;0b;0;1b;0"
+            }
+        ],
+        "links": [
+            {
+                "id": "l1",
+                "label": "TRACKER",
+                "text": "https://tracker.gg/valorant"
+            }
+        ],
+        "snippets": [
+            {
+                "id": "s1",
+                "label": "YT",
+                "text": "Hi I am live on yt --> @Itz_PRiM3 . hope to see u there , dont forget to drop a sub!"
+            },
+            {
+                "id": "s2",
+                "label": "WON",
+                "text": "VENI VIDI VICI"
+            }
+        ]
+    }
+]
