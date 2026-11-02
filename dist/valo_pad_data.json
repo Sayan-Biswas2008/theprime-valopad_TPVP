@@ -19,7 +19,16 @@
 
             ],
             "snippets": [
-
+                {
+                    "id": "s1",
+                    "label": "YT",
+                    "text": "Hi I am live on yt --> @Itz_PRiM3 . hope to see u there , dont forget to drop a sub!"
+                },
+                {
+                    "id": "s2",
+                    "label": "NOTE",
+                    "text": "!! ENJOY GUYS !!"
+                }
             ],
             "notes_grid": [
             ],
