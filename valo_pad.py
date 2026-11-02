@@ -53,9 +53,9 @@ DEFAULT_DATA = {
             "title": "General",
             "accounts": [
                 {
-                    "ign": "MAJOR SAMAL",
-                    "username": "Immoneninenineeight",
-                    "password": "",
+                    "ign": "The PRIME",
+                    "username": "type your ID username here",
+                    "password": "Type ur id password here",
                     "is_available": True,
                     "is_banned": False,
                     "unban_time": 0,
