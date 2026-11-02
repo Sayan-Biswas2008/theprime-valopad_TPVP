@@ -13,139 +13,15 @@
             "title": "General",
             "notes": [],
             "crosshairs": [
-                {
-                    "id": "item_1791380081475",
-                    "label": "RONNY",
-                    "text": "0;c;1;P;c;1;u;000000FF;h;0;f;0;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0"
-                },
-                {
-                    "id": "item_1791380095406",
-                    "label": "MAIN 2",
-                    "text": "0;s;1;P;c;5;o;0;f;0;0l;2;0v;2;0g;1;0o;1;0a;1;0f;0;1b;0"
-                },
-                {
-                    "id": "item_1791380104036",
-                    "label": "Main 1",
-                    "text": "0;c;1;s;1;P;u;2AFF00FF;h;0;d;1;z;3;a;0;f;0;0t;4;0l;1;0v;1;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0;s;0.396;o;1"
-                },
-                {
-                    "id": "item_1791380115444",
-                    "label": "SMALL dot",
-                    "text": "0;c;1;s;1;P;u;000000FF;o;0;d;1;f;0;0b;0;1b;0;S;s;0.591;o;1"
-                }
             ],
             "links": [
-                {
-                    "id": "item_1791404615291",
-                    "label": "INSTA itz_.prim3",
-                    "text": "https://www.instagram.com/itz_.prim3"
-                },
-                {
-                    "id": "item_1791404703455",
-                    "label": "YT",
-                    "text": "https://www.youtube.com/@Itz_PRiM3"
-                }
             ],
             "snippets": [
-                {
-                    "id": "item_1791380057127",
-                    "label": "WON",
-                    "text": "VENI VIDI VICI"
-                },
-                {
-                    "id": "item_1791380063651",
-                    "label": "YT",
-                    "text": "Hi I am live on yt --> @Itz_PRiM3 . hope to see u there , dont forget to drop a like and sub HEHE"
-                }
             ],
             "notes_grid": [
-                "MAJOR SAMAL\nImmoneninenineeight                    \t\t\t\t  (   PAS CHANGED  )\nISHUSAMAL96$\n\nNOSFERIN\nE1dllvx                    \t\t\t       \t  (   PAS CHANGED  )\nP@ssword1234!\n\nOcean\nOceanking2723\n123456ocean27\n\nmyid\nItzsPRIME                                             Ban till 15 10\nSayan Biswas@112008#\n\nals          (GAMERALS)\nALSGAMING07 \t\t\tBan till 16 10\n@nujy@d@v\n\nals 2               (ALs)\nALSGAMIN07\n@nujy@d@v\n\nGAMI 3 id\nALSGAMI2\n@nujy@d@v\n\nGAMI 4th id\nALSGAMI3\n@nujy@d@v\n\nstriverop\nRishu@1212\n\nAshhi08\nAs55655565",
-                "",
-                "",
-                ""
             ],
             "accounts": [
-                {
-                    "ign": "MAJOR SAMAL",
-                    "username": "Immoneninenineeight",
-                    "password": "ISHUSAMAL96$",
-                    "availability": "IDP changed",
-                    "is_available": false,
-                    "is_idp_changed": true
-                },
-                {
-                    "ign": "NOSFERIN",
-                    "username": "E1dllvx",
-                    "password": "P@ssword1234!",
-                    "availability": "IDP changed",
-                    "is_available": false,
-                    "is_banned": false,
-                    "is_idp_changed": true
-                },
-                {
-                    "ign": "Oceanking",
-                    "username": "Oceanking2723",
-                    "password": "123456ocean27",
-                    "availability": "",
-                    "is_available": false,
-                    "is_idp_changed": false,
-                    "is_banned": false,
-                    "unban_time": 0
-                },
-                {
-                    "ign": "The PRiM3",
-                    "username": "ItzsPRIME",
-                    "password": "Sayan Biswas@112008#",
-                    "availability": "Unban on 16",
-                    "is_available": false,
-                    "is_banned": true,
-                    "unban_time": 1792074518.7574196
-                },
-                {
-                    "ign": "GAMERALS",
-                    "username": "ALSGAMING07",
-                    "password": "@nujy@d@v",
-                    "availability": "",
-                    "is_available": false,
-                    "is_banned": false,
-                    "unban_time": 0,
-                    "is_idp_changed": false
-                },
-                {
-                    "ign": "ALs",
-                    "username": "ALSGAMIN07",
-                    "password": "@nujy@d@v",
-                    "availability": "",
-                    "is_available": false
-                },
-                {
-                    "ign": "GAMI 3 id",
-                    "username": "ALSGAMI2",
-                    "password": "@nujy@d@v",
-                    "availability": "",
-                    "is_available": false
-                },
-                {
-                    "ign": "GAMI 4th id\n",
-                    "username": "ALSGAMI3",
-                    "password": "@nujy@d@v",
-                    "availability": "",
-                    "is_available": false
-                },
-                {
-                    "ign": "RISHU",
-                    "username": "striverop",
-                    "password": "Rishu@1212",
-                    "availability": "",
-                    "is_available": false
-                },
-                {
-                    "ign": "Ash",
-                    "username": "Ashhi08",
-                    "password": "As55655565",
-                    "availability": "",
-                    "is_available": true,
-                    "is_idp_changed": false
+                
                 }
             ]
         }
